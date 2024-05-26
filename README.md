@@ -1,16 +1,6 @@
 # brick_breaker
 
-A new Flutter project.
+A simple game inspired by one of the classics of ‘70s video games, Steve Wozniak's Breakout. 
 
-## Getting Started
+Made with Flutter and the Flame Engine following the [Introduction to Flame with Flutter codelab](https://codelabs.developers.google.com/codelabs/flutter-flame-brick-breaker).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
